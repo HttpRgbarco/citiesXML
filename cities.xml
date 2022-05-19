@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cities">
+
+        <!-- CIUDADES CON LA A -->
+
+        <item>Aachen / Germany</item>
+        <item>Abidjan / Cote dIvoire</item>
+        <item>Accra / Ghana</item>
+        <item>Adana / Turkey</item>
+        <item>Addis / Ababa Ethiopia</item>
+        <item>Adelaide / Australia</item>
+        <item>Agra / India</item>
+        <item>Ahmadabad / India</item>
+        <item>Aleppo / Syrian Arab Republic</item>
+        <item>Alexandria / Egypt</item>
+        <item>Algiers / Algeria</item>
+        <item>Allahabad / India</item>
+        <item>Almaty / Kazakhstan</item>
+        <item>Amman / Jordan</item>
+        <item>Amritsar / India</item>
+        <item>Amsterdam / Netherlands</item>
+        <item>Ankara / Turkey</item>
+        <item>Anshan / China</item>
+        <item>Antananarivo / Madagascar</item>
+        <item>Asansol / India</item>
+        <item>Asunción / Paraguay</item>
+        <item>Athens / Greece</item>
+        <item>Atlanta / United States of America</item>
+        <item>Auckland / New Zealand</item>
+        <item>Austin / United States of America</item>
+
+        <!-- CIUDADES CON LA B -->
+
+        <item>Baghdad / Iraq</item>
+        <item>Baixada / Santista (Santos) Brazil</item>
+        <item>Baku / Azerbaijan</item>
+        <item>Baltimore / United States of America</item>
+        <item>Bamako / Mali</item>
+        <item>Bandung / Indonesia</item>
+        <item>Bangalore / India</item>
+        <item>Bangkok / Thailand</item>
+        <item>Baotou / China</item>
+        <item>Barcelona / Spain</item>
+        <item>Barranquilla / Colombia</item>
+        <item>Basra / Iraq</item>
+        <item>Beihai / China</item>
+        <item>Beijing / China</item>
+        <item>Beirut / Lebanon</item>
+        <item>Belém / Brazil</item>
+        <item>Belgrade / Serbia and Montenegro</item>
+        <item>Belo / Horizonte Brazil</item>
+        <item>Berlin / Germany</item>
+        <item>Bhopal / India</item>
+        <item>Bielefeld / Germany</item>
+        <item>Birmingham / United Kingdom</item>
+        <item>Boston / United States of America</item>
+        <item>Brasília / Brazil</item>
+        <item>Brazzaville / Congo</item>
+        <item>Brisbane / Australia</item>
+        <item>Bucaramanga / Colombia</item>
+        <item>Bucharest / Romania</item>
+        <item>Budapest / Hungary</item>
+        <item>Buenos / Aires Argentina</item>
+        <item>Bursa / Turkey</item>
+
+        <!-- CIUDADES CON LA C -->
+
+        <item>Cairo / Egypt</item>
+        <item>Calcutta / India</item>
+        <item>Calgary / Canada</item>
+        <item>Cali / Colombia</item>
+        <item>Campinas / Brazil</item>
+        <item>Cape / Town South Africa</item>
+        <item>Caracas / Venezuela</item>
+        <item>Casablanca / Morocco</item>
+        <item>Changchun / China</item>
+        <item>Changde / China</item>
+        <item>Changsha / China</item>
+        <item>Chelyabinsk / Russian Federation</item>
+        <item>Chengdu / China</item>
+        <item>Chennai / (Madras) India</item>
+        <item>Chicago / United States of America</item>
+        <item>Chifeng / China</item>
+        <item>Chittagong / Bangladesh</item>
+        <item>Chongqing / China</item>
+        <item>Cincinnati / United States of America</item>
+        <item>Ciudad / Juárez Mexico</item>
+        <item>Cleveland / United States of America</item>
+        <item>Coimbatore / India</item>
+        <item>Columbus / Ohio United States of America</item>
+        <item>Conakry / Guinea</item>
+        <item>Copenhagen / Denmark</item>
+        <item>Córdoba / Argentina</item>
+        <item>Curitiba / Brazil</item>
+
+        <!-- CIUDADES CON LA D -->
+
+        <item>Dakar / Senegal</item>
+        <item>Dalian / China</item>
+        <item>Dallas-Fort / Worth United States of America</item>
+        <item>Damascus / Syrian Arab Republic</item>
+        <item>Daqing / China</item>
+        <item>Dar / es Salaam United Republic of Tanzania</item>
+        <item>Datong / China</item>
+        <item>Davao / Philippines</item>
+        <item>Delhi / India</item>
+        <item>Denver-Aurora / United States of America</item>
+        <item>Detroit / United States of America</item>
+        <item>Dhaka / Bangladesh</item>
+        <item>Dhanbad / India</item>
+        <item>Dnepropetrovsk / Ukraine</item>
+        <item>Donetsk / Ukraine</item>
+        <item>Dongguan / China</item>
+        <item>Douala / Cameroon</item>
+        <item>Dublin / Ireland</item>
+        <item>Durban / South Africa</item>
+
+        <!-- CIUDADES CON LA E -->
+
+        <item>East / Rand (Ekurhuleni) South Africa</item>
+        <item>Ekaterinburg / Russian Federation</item>
+        <item>Esfahan / Iran (Islamic Republic of)</item>
+
+        <!-- CIUDADES CON LA F -->
+
+        <item>Faisalabad / Pakistan</item>
+        <item>Faridabad / India</item>
+        <item>Fortaleza / Brazil</item>
+        <item>Fukuoka-Kitakyushu / Japan</item>
+        <item>Fushun / China</item>
+        <item>Fuyu / China</item>
+        <item>Fuzhou / Fujian China</item>
+
+        <!-- CIUDADES CON LA G -->
+
+        <item>Ghaziabad / India</item>
+        <item>Goiânia / Brazil</item>
+        <item>Grande / Vitória Brazil</item>
+        <item>Guadalajara / Mexico</item>
+        <item>Guangzhou / China</item>
+        <item>Guayaquil / Ecuador</item>
+        <item>Guiyang / China</item>
+        <item>Gujranwala / Pakistan</item>
+
+        <!-- CIUDADES CON LA H -->
+
+        <item>Hai / Phong Viet Nam</item>
+        <item>Hamburg / Germany</item>
+        <item>Handan / China</item>
+        <item>Hangzhou / China</item>
+        <item>Hannover / Germany</item>
+        <item>Hanoi / Viet Nam</item>
+        <item>Harare / Zimbabwe</item>
+        <item>Harbin / China</item>
+        <item>Havana / Cuba</item>
+        <item>Hefei / China</item>
+        <item>Helsinki / Finland</item>
+        <item>Heze / China</item>
+        <item>Ho / Chi Minh City Viet Nam</item>
+        <item>Hong / Kong  China Hong Kong SAR</item>
+        <item>Houston / United States of America</item>
+        <item>Huaian / China</item>
+        <item>Huainan / China</item>
+        <item>Huzhou / China</item>
+        <item>Hyderabad / India</item>
+        <item>Hyderabad / Pakistan</item>
+
+        <!-- CIUDADES CON LA I -->
+
+        <item>Ibadan / Nigeria</item>
+        <item>Inchon / Republic of Korea</item>
+        <item>Indianapolis / United States of America</item>
+        <item>Indore / India</item>
+        <item>Istanbul / Turkey</item>
+        <item>Izmir / Turkey</item>
+
+        <!-- CIUDADES CON LA J -->
+
+        <item>Jabalpur / India</item>
+        <item>Jaipur / India</item>
+        <item>Jakarta / Indonesia</item>
+        <item>Jamshedpur / India</item>
+        <item>Jidda / Saudi Arabia</item>
+        <item>Jilin / China</item>
+        <item>Jinan / China</item>
+        <item>Jingmen / China</item>
+        <item>Jining / Shandong China</item>
+        <item>Jinxi / China</item>
+        <item>Johannesburg / South Africa</item>
+
+        <!-- CIUDADES CON LA K -->
+
+        <item>Kabul / Afghanistan</item>
+        <item>Kaduna / Nigeria</item>
+        <item>Kampala / Uganda</item>
+        <item>Kano / Nigeria</item>
+        <item>Kanpur / India</item>
+        <item>Kansas / City United States of America</item>
+        <item>Kaohsiung / China</item>
+        <item>Karachi / Pakistan</item>
+        <item>Karaj / Iran (Islamic Republic of)</item>
+        <item>Katowice / Poland</item>
+        <item>Kazan / Russian Federation</item>
+        <item>Kharkov / Ukraine</item>
+        <item>Khartoum / Sudan</item>
+        <item>Khulna / Bangladesh</item>
+        <item>Kiev / Ukraine</item>
+        <item>Kinshasa / Dem. Rep. of the Congo</item>
+        <item>Kochi / (Cochin) India</item>
+        <item>Kuala / Lumpur Malaysia</item>
+        <item>Kunming / China</item>
+        <item>Kuwait / City Kuwait</item>
+        <item>Kwangju / Republic of Korea</item>
+        <item>Kyoto / Japan</item>
+
+        <!-- CIUDADES CON LA L -->
+
+        <item>La / Paz Bolivia</item>
+        <item>Lagos / Nigeria</item>
+        <item>Lahore / Pakistan</item>
+        <item>Lanzhou / China</item>
+        <item>Las / Vegas United States of America</item>
+        <item>Leeds / United Kingdom</item>
+        <item>León / Mexico</item>
+        <item>Leshan / China</item>
+        <item>Lille / France</item>
+        <item>Lima / Peru</item>
+        <item>Linyi / China</item>
+        <item>Lisbon / Portugal</item>
+        <item>Liuan / China</item>
+        <item>Liupanshui / China</item>
+        <item>London / United Kingdom</item>
+        <item>Los / Angeles  United States of America</item>
+        <item>Luanda / Angola</item>
+        <item>Lubumbashi / Dem. Rep. of the Congo</item>
+        <item>Lucknow / India</item>
+        <item>Ludhiana / India</item>
+        <item>Luoyang / China</item>
+        <item>Lusaka / Zambia</item>
+        <item>Lyon / France</item>
+
+        <!-- CIUDADES CON LA M -->
+
+        <item>Maceió / Brazil</item>
+        <item>Madrid / Spain</item>
+        <item>Madurai / India</item>
+        <item>Managua / Nicaragua</item>
+        <item>Manaus / Brazil</item>
+        <item>Manchester / United Kingdom</item>
+        <item>Maputo / Mozambique</item>
+        <item>Maracaibo / Venezuela</item>
+        <item>Maracay / Venezuela</item>
+        <item>Marseille-Aix-en-Provence / France</item>
+        <item>Mashhad / Iran (Islamic Republic of)</item>
+        <item>Mecca / Saudi Arabia</item>
+        <item>Medan / Indonesia</item>
+        <item>Medellín / Colombia</item>
+        <item>Meerut / India</item>
+        <item>Melbourne / Australia</item>
+        <item>Memphis / United States of America</item>
+        <item>Mendoza / Argentina</item>
+        <item>Metro / Manila Philippines</item>
+        <item>Mexico / City Mexico</item>
+        <item>Miami / United States of America</item>
+        <item>Mianyang / China</item>
+        <item>Milan / Italy</item>
+        <item>Milwaukee / United States of America</item>
+        <item>Minneapolis-St. / Paul United States of America</item>
+        <item>Minsk / Belarus</item>
+        <item>Mogadishu / Somalia</item>
+        <item>Monterrey / Mexico</item>
+        <item>Montevideo / Uruguay</item>
+        <item>Montréal / Canada</item>
+        <item>Moscow / Russian Federation</item>
+        <item>Mosul / Iraq</item>
+        <item>Multan / Pakistan</item>
+        <item>Mumbai / (Bombay) India</item>
+        <item>Munich / Germany</item>
+
+        <!-- CIUDADES CON LA N -->
+
+        <item>Nagoya / Japan</item>
+        <item>Nagpur / India</item>
+        <item>Nairobi / Kenya</item>
+        <item>Nampho / Dem. Peoples Rep. of Korea</item>
+        <item>Nanchang / China</item>
+        <item>Nanchong / China</item>
+        <item>Nanjing / China</item>
+        <item>Nanning / China</item>
+        <item>Naples / Italy</item>
+        <item>Nashik / India</item>
+        <item>Neijiang / China</item>
+        <item>New / Orleans United States of America</item>
+        <item>New / York  United States of America</item>
+        <item>Ningbo / China</item>
+        <item>Nizhni / Novgorod Russian Federation</item>
+        <item>Novosibirsk / Russian Federation</item>
+        <item>Nuremberg / Germany</item>
+
+        <!-- CIUDADES CON LA O -->
+
+        <item>Odessa / Ukraine</item>
+        <item>Omsk / Russian Federation</item>
+        <item>Orlando / United States of America</item>
+        <item>Osaka-Kobe / Japan</item>
+        <item>Ottawa / Canada</item>
+
+        <!-- CIUDADES CON LA P -->
+
+        <item>Palembang / Indonesia</item>
+        <item>Paris / France</item>
+        <item>Patna / India</item>
+        <item>Perth / Australia</item>
+        <item>Peshawar / Pakistan</item>
+        <item>Philadelphia / United States of America</item>
+        <item>Phnom / Penh Cambodia</item>
+        <item>Phoenix-Mesa / United States of America</item>
+        <item>Pingxiang / Jiangxi China</item>
+        <item>Pittsburgh / United States of America</item>
+        <item>Port-au-Prince / Haiti</item>
+        <item>Portland / United States of America</item>
+        <item>Porto / Portugal</item>
+        <item>Pôrto / Alegre Brazil</item>
+        <item>Prague / Czech Republic</item>
+        <item>Pretoria / South Africa</item>
+        <item>Providence / United States of America</item>
+        <item>Puebla / Mexico</item>
+        <item>Pune / (Poona) India</item>
+        <item>Pusan / Republic of Korea</item>
+        <item>Pyongyang / Dem. Peoples Rep. of Korea</item>
+
+        <!-- CIUDADES CON LA Q -->
+
+        <item>Qingdao / China</item>
+        <item>Qiqihar / China</item>
+        <item>Quito / Ecuador</item>
+
+        <!-- CIUDADES CON LA R -->
+
+        <item>Rabat / Morocco</item>
+        <item>Rajkot / India</item>
+        <item>Rawalpindi / Pakistan</item>
+        <item>Recife / Brazil</item>
+        <item>Rhein-Main /  Germany</item>
+        <item>Rhein-Neckar /  Germany</item>
+        <item>Rhein-Ruhr / Middle  Germany</item>
+        <item>Rhein-Ruhr / North  Germany</item>
+        <item>Rhein-Ruhr / South  Germany</item>
+        <item>Rio / de Janeiro Brazil</item>
+        <item>Riverside-San / Bernardino United States of America</item>
+        <item>Riyadh / Saudi Arabia</item>
+        <item>Rome / Italy</item>
+        <item>Rosario / Argentina</item>
+        <item>Rostov-on-Don / Russian Federation</item>
+        <item>Rotterdam / Netherlands</item>
+
+        <!-- CIUDADES CON LA S -->
+
+        <item>Sacramento / United States of America</item>
+        <item>Saint / Petersburg Russian Federation</item>
+        <item>Salvador / Brazil</item>
+        <item>Samara / Russian Federation</item>
+        <item>San / Antonio United States of America</item>
+        <item>San / Diego United States of America</item>
+        <item>San / Francisco-Oakland United States of America</item>
+        <item>San / Jose United States of America</item>
+        <item>San / José Costa Rica</item>
+        <item>San / Juan Puerto Rico</item>
+        <item>San / Salvador El Salvador</item>
+        <item>Sanaa / Yemen</item>
+        <item>Santa / Cruz Bolivia</item>
+        <item>Santa / Fé de Bogotá Colombia</item>
+        <item>Santiago / Chile</item>
+        <item>Santo / Domingo Dominican Republic</item>
+        <item>São / Paulo Brazil</item>
+        <item>Sapporo / Japan</item>
+        <item>Seattle / United States of America</item>
+        <item>Sevilla / Spain</item>
+        <item>Seoul / Republic of Korea</item>
+        <item>Shanghai / China</item>
+        <item>Shantou / China</item>
+        <item>Shenyang / China</item>
+        <item>Shenzhen / China</item>
+        <item>Shijiazhuang / China</item>
+        <item>Shiraz / Iran (Islamic Republic of)</item>
+        <item>Singapore / Singapore</item>
+        <item>Sofia / Bulgaria</item>
+        <item>Srinagar / India</item>
+        <item>St. / Louis United States of America</item>
+        <item>Stockholm / Sweden</item>
+        <item>Stuttgart / Germany</item>
+        <item>Suining / China</item>
+        <item>Suqian / China</item>
+        <item>Surabaja / Indonesia</item>
+        <item>Surat / India</item>
+        <item>Suwon / Republic of Korea</item>
+        <item>Suzhou / Jiangsu China</item>
+        <item>Sydney / Australia</item>
+
+        <!-- CIUDADES CON LA T -->
+
+        <item>Tabriz / Iran (Islamic Republic of)</item>
+        <item>Taegu / Republic of Korea</item>
+        <item>Taejon / Republic of Korea</item>
+        <item>Taian / China</item>
+        <item>Taichung / China</item>
+        <item>Taipei / China</item>
+        <item>Taiyuan / China</item>
+        <item>Tampa-St. / Petersburg United States of America</item>
+        <item>Tangshan / China</item>
+        <item>Tashkent / Uzbekistan</item>
+        <item>Tbilisi / Georgia</item>
+        <item>Tegucigalpa / Honduras</item>
+        <item>Tehran / Iran (Islamic Republic of)</item>
+        <item>Tel / Aviv-Jaffa Israel</item>
+        <item>Tianjin / China</item>
+        <item>Tianmen / China</item>
+        <item>Tianshui / China</item>
+        <item>Tijuana / Mexico</item>
+        <item>Tokyo / Japan</item>
+        <item>Toluca / Mexico</item>
+        <item>Toronto / Canada</item>
+        <item>Torreón / Mexico</item>
+        <item>Tripoli / Libyan Arab Jamahiriya</item>
+        <item>Tunis / Tunisia</item>
+        <item>Turin / Italy</item>
+        <item>Tyneside / (Newcastle) United Kingdom</item>
+
+        <!-- CIUDADES CON LA U -->
+
+        <item>Ufa / Russian Federation</item>
+        <item>Ujung / Pandang Indonesia</item>
+        <item>Ulsan / Republic of Korea</item>
+
+        <!-- CIUDADES CON LA V -->
+
+        <item>Vadodara / India</item>
+        <item>Valencia / Venezuela</item>
+        <item>Valencia / Spain</item>
+        <item>Vancouver / Canada</item>
+        <item>Varanasi / (Benares) India</item>
+        <item>Vienna / Austria</item>
+        <item>Vijayawada / India</item>
+        <item>Virginia / Beach United States of America</item>
+        <item>Visakhapatnam / India</item>
+        <item>Volgograd / Russian Federation</item>
+
+        <!-- CIUDADES CON LA W -->
+
+        <item>Wanxian / China</item>
+        <item>Warsaw / Poland</item>
+        <item>Washington / D.C. United States of America</item>
+        <item>Weifang / China</item>
+        <item>Wenzhou / China</item>
+        <item>Wuhan / China</item>
+        <item>Wulumuqi / (Urumqi) China</item>
+        <item>Wuxi / China</item>
+
+        <!-- CIUDADES CON LA X -->
+
+        <item>Xian / China</item>
+        <item>Xiantao / China</item>
+        <item>Xiaoshan / China</item>
+        <item>Xinghua / China</item>
+        <item>Xintai / China</item>
+        <item>Xinyi / China</item>
+        <item>Xuzhou / China</item>
+
+        <!-- CIUDADES CON LA Y -->
+
+        <item>Yancheng / China</item>
+        <item>Yangon / Myanmar</item>
+        <item>Yantai / China</item>
+        <item>Yaoundé / Cameroon</item>
+        <item>Yerevan / Armenia</item>
+        <item>Yixing / China</item>
+        <item>Yiyang / China</item>
+        <item>Yongzhou / China</item>
+        <item>Yueyang / China</item>
+        <item>Yulin / Guangxi China</item>
+        <item>Yuzhou / China</item>
+
+        <!-- CIUDADES CON LA Z -->
+
+        <item>Zaoyang / China</item>
+        <item>Zaozhuang / China</item>
+        <item>Zhanjiang / China</item>
+        <item>Zhengzhou / China</item>
+        <item>Zibo / China</item>
+        <item>Zigong / China</item>
+
+    </string-array>
+
+</resources>
